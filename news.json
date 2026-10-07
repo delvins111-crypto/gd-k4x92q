@@ -1,0 +1,118 @@
+{
+  "updated": 1794665522435,
+  "counts": {
+    "l5": 0,
+    "l4": 19,
+    "l3": 44,
+    "low": 12
+  },
+  "items": [
+    {
+      "t": "2026-11-14T13:07:40.0000000+00:00",
+      "title": "Saudi-led coalition: intercepts and destroys two drones launched by Yemen's Houthis toward Riyadh and southern region",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9852223/Saudi-led-coalition-intercepts-and-destroys-two-drones-launched-by-Yemens-Houthis-toward-Riyadh-and-southern-region.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-11-14T10:14:45.0000000+00:00",
+      "title": "Iran navy: oil tanker catches fire after striking naval mine in eastern Strait of Hormuz",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9852173/Iran-navy-oil-tanker-catches-fire-after-striking-naval-mine-in-eastern-Strait-of-Hormuz.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-11-14T00:00:03.0000000+00:00",
+      "title": "Jefferson: inflation data indicate ongoing price pressures",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9851761/Jefferson-inflation-data-indicate-ongoing-price-pressures.aspx",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "fedchair"
+    },
+    {
+      "t": "2026-11-14T00:00:03.0000000+00:00",
+      "title": "Jefferson: Alabama could face unemployment increase beyond reach of monetary policy",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9851759/Jefferson-Alabama-could-face-unemployment-increase-beyond-reach-of-monetary-policy.aspx",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "fedchair"
+    },
+    {
+      "t": "2026-11-13T15:37:13.0000000+00:00",
+      "title": "Fed's Collins: Recent inflation data less promising than I had hoped",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9851139/Feds-Collins-Recent-inflation-data-less-promising-than-I-had-hoped.aspx?xy=rss",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-11-13T13:35:09.0000000+00:00",
+      "title": "Traders price in less Fed tightening after PPI report.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9850968/Traders-price-in-less-Fed-tightening-after-PPI-report.aspx",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-11-13T13:32:08.0000000+00:00",
+      "title": "US Core PPI YoY Actual 5.0% (Forecast 5%, Previous 5.0%)",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9850938/US-Core-PPI-YoY-Actual-50-Forecast-5-Previous-50.aspx",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-11-13T13:30:04.0000000+00:00",
+      "title": "US PPI MoM Actual 0.3% (Forecast 0.4%, Previous 1.3%, Revised 1.4%)",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9850934/US-PPI-MoM-Actual-03-Forecast-04-Previous-13-Revised-14.aspx?xy=rss",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-11-13T13:15:39.0000000+00:00",
+      "title": "Poll: UK GDP to grow 1.5% in 2026, 1.2% in 2027 (vs 1.3%, 1.2% in October poll)",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9850907/Poll-UK-GDP-to-grow-15-in-2026-12-in-2027-vs-13-12-in-October-poll.aspx",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "gdp"
+    },
+    {
+      "t": "2026-11-13T02:57:00.0000000+00:00",
+      "title": "Indonesia budget deficit at 1.5% of GDP in January to October, minister says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkhtYW1DTHRTRXJVRDNUSWFfaFZKOVBqSHRPWFZsZlUzNng5QWdwdFlnZW9UajBXNS1LUlNodThfNFdyVjBqMjlrTWlLb3dMM25hX0d5cDRBSTh4dm9BanFjdGlGNG9wa3QxOUlsNm4xRTFyY3czclBWQTRSeWJVQUVxMWh6bVRpRVVoQlpaVmU2a2cwODk5YWpaNGRoWlh3UWx0T3ltRWxPS2ZXSE5j?oc=5",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "gdp"
+    }
+  ],
+  "fed": [
+    {
+      "t": "2026-11-12T17:45:00.0000000+00:00",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+    },
+    {
+      "t": "2026-10-28T18:00:00.0000000+00:00",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "t": "2026-10-13T18:00:00.0000000+00:00",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+    }
+  ]
+}

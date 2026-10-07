@@ -1,0 +1,137 @@
+{
+  "updated": 1794665522435,
+  "items": [
+    {
+      "t": "2026-11-09T17:25:00.0000000+00:00",
+      "title": "BOE Gov Bailey Speaks",
+      "cur": "GBP",
+      "impact": "Medium",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "revision": "",
+      "better": 0,
+      "topic": null
+    },
+    {
+      "t": "2026-11-10T09:00:00.0000000+00:00",
+      "title": "FOMC Member Waller Speaks",
+      "cur": "USD",
+      "impact": "Medium",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "revision": "",
+      "better": 0,
+      "topic": "fedchair"
+    },
+    {
+      "t": "2026-11-10T13:30:00.0000000+00:00",
+      "title": "Core CPI m/m",
+      "cur": "USD",
+      "impact": "High",
+      "actual": "0.3%",
+      "forecast": "0.2%",
+      "previous": "0.3%",
+      "revision": "",
+      "better": 1,
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-11-10T13:30:00.0000000+00:00",
+      "title": "CPI m/m",
+      "cur": "USD",
+      "impact": "High",
+      "actual": "0.4%",
+      "forecast": "0.3%",
+      "previous": "0.6%",
+      "revision": "",
+      "better": 1,
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-11-11T09:45:00.0000000+00:00",
+      "title": "ECB President Lagarde Speaks",
+      "cur": "EUR",
+      "impact": "Medium",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "revision": "",
+      "better": 0,
+      "topic": null
+    },
+    {
+      "t": "2026-11-12T07:00:00.0000000+00:00",
+      "title": "GDP m/m",
+      "cur": "GBP",
+      "impact": "High",
+      "actual": "0.2%",
+      "forecast": "0.0%",
+      "previous": "0.1%",
+      "revision": "0.0%",
+      "better": 1,
+      "topic": null
+    },
+    {
+      "t": "2026-11-12T07:00:00.0000000+00:00",
+      "title": "Prelim GDP q/q",
+      "cur": "GBP",
+      "impact": "Medium",
+      "actual": "0.7%",
+      "forecast": "0.7%",
+      "previous": "0.5%",
+      "revision": "",
+      "better": 0,
+      "topic": null
+    },
+    {
+      "t": "2026-11-12T13:30:00.0000000+00:00",
+      "title": "Unemployment Claims",
+      "cur": "USD",
+      "impact": "Medium",
+      "actual": "200K",
+      "forecast": "194K",
+      "previous": "189K",
+      "revision": "191K",
+      "better": 2,
+      "topic": "claims"
+    },
+    {
+      "t": "2026-11-12T19:30:00.0000000+00:00",
+      "title": "ECB President Lagarde Speaks",
+      "cur": "EUR",
+      "impact": "Medium",
+      "actual": "",
+      "forecast": "",
+      "previous": "",
+      "revision": "",
+      "better": 0,
+      "topic": null
+    },
+    {
+      "t": "2026-11-13T13:30:00.0000000+00:00",
+      "title": "Core PPI m/m",
+      "cur": "USD",
+      "impact": "High",
+      "actual": "0.3%",
+      "forecast": "0.3%",
+      "previous": "0.7%",
+      "revision": "0.8%",
+      "better": 0,
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-11-13T13:30:00.0000000+00:00",
+      "title": "PPI m/m",
+      "cur": "USD",
+      "impact": "High",
+      "actual": "0.3%",
+      "forecast": "0.4%",
+      "previous": "1.3%",
+      "revision": "1.4%",
+      "better": 2,
+      "topic": "ppi"
+    }
+  ]
+}

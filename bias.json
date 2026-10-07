@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "strong",
+  "score": -70,
+  "price": 3884.68,
+  "updated": 1794665231000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "+13 bp",
+      "s": -0.52
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+1.5%",
+      "s": -0.771
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "-4.6%",
+      "s": -1.0
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "40 bearish / 19 bullish",
+      "s": -0.383
+    },
+    {
+      "name": "Fund positioning",
+      "value": "24th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Central Bank Gold Buying Surges 42% as Prices Dip Below US$4,000. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

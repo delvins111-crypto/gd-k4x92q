@@ -1,0 +1,45 @@
+{
+  "updated": 1792843922021,
+  "items": [
+    {
+      "t": "2026-10-22T19:30:00.0000000+07:00",
+      "title": "Unemployment Claims",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "200K",
+      "topic": "claims"
+    },
+    {
+      "t": "2026-10-23T20:45:00.0000000+07:00",
+      "title": "Flash Manufacturing PMI",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "55.4",
+      "topic": "ism"
+    },
+    {
+      "t": "2026-10-23T20:45:00.0000000+07:00",
+      "title": "Flash Services PMI",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "57.9",
+      "topic": "ism"
+    },
+    {
+      "t": "2026-10-23T21:00:00.0000000+07:00",
+      "title": "Revised UoM Consumer Sentiment",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "46.3",
+      "topic": "sentiment"
+    },
+    {
+      "t": "2026-10-23T21:00:00.0000000+07:00",
+      "title": "Revised UoM Inflation Expectations",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "",
+      "topic": "sentiment"
+    }
+  ]
+}

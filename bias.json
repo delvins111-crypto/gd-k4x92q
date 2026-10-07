@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "moderate",
+  "score": -32,
+  "price": 3995.81,
+  "updated": 1792843630000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "-19 bp",
+      "s": 0.76
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+0.8%",
+      "s": -0.416
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "-4.1%",
+      "s": -1.0
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "42 bearish / 9 bullish",
+      "s": -0.553
+    },
+    {
+      "name": "Fund positioning",
+      "value": "26th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Wall Street doubts gold’s near-term strength, Main Street maintains bullish minority as central banks take center stage. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

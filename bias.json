@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "moderate",
+  "score": -51,
+  "price": 4194.65,
+  "updated": 1791684438000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "+31 bp",
+      "s": -1.0
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+3.1%",
+      "s": -1.0
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "+1.3%",
+      "s": 0.519
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "15 bearish / 37 bullish",
+      "s": 0.424
+    },
+    {
+      "name": "Fund positioning",
+      "value": "34th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Gold edges up after hitting two-month low as markets weigh Fed rate path. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

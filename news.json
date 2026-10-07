@@ -1,0 +1,64 @@
+{
+  "updated": 1791684722419,
+  "counts": {
+    "l5": 1,
+    "l4": 2,
+    "l3": 0,
+    "low": 25
+  },
+  "items": [
+    {
+      "t": "2026-10-10T03:22:22.0000000+00:00",
+      "title": "Fed Hikes Raise US Debt Costs, Supporting Gold’s Fiscal Hedge Case",
+      "source": "Crux Investor",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjRlUnVfbEVvQ09KTGFfajh1Z1ZLOFkzaHB6eWZMZzUwT1BtT2pfTlFfN1AwM3JCcWV5Q0tfTmd6elRiZlhhTVdMUEdQWjJ0YlFmbkNaczRObjVBUDhkX25laEhiRTJYalRRSllienk5Mmltc2h2cDBLR19VWTVPbWlQTTFYRjY3UjdNTE5zYnZINS1HUUcxUk9QMUh4OVRa?oc=5",
+      "level": 5,
+      "kind": "Fed decision",
+      "topic": "fomc"
+    },
+    {
+      "t": "2026-10-10T15:51:29.0000000+00:00",
+      "title": "Gold Update: XAU/USD Remains Under Pressure Even After the NFP Report",
+      "source": "FOREX.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUEtySkFkdHVwaTg4c2hQa3pTc2R0NVVZQWRFVVh3cjRGYUl1V0xkeFdLVGlubHhSZE5lODZlOWZNb0lfT3VkQmtiUjNNOEhoM3EyZjhEaVNxS240TmdlUEJRV3IzWWhab1R3QkZLSVVKWEx5UlltWFVqdGhneDY5aVZhZjA1NEhFNklVMmZEZmJVZ3Q3bkNETWtzUDE4VEtMZWIzc3hzUFA3dF9pb1FiMkZIU3VyZ9IBwgFBVV95cUxOYWEwcS1kQ1MyZFJmSlZmbFA3azl4NEJrNFdWODdOOHltdnlNb012ZVg5OFlFRGx4YmU5QU9zUkRNanJGZDByVEVHTGlMSGlEd3dfSllMTkt3LVF1YnpZOFNSR3FRaWctRmhZRFNzMUk1dFJlNl9HTldWcHBzM09QWTlNYVJrTGYxQVpFaGk5OVI1QVp6ZUpHXzNCeE9rSEIzMDNVZ2IyZUk3cnpTYjRwdjRGdnc0Q3QwT182Vl9nQ3MtQQ?oc=5",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "nfp"
+    },
+    {
+      "t": "2026-10-09T18:27:00.0000000+00:00",
+      "title": "Wall Street nears bullish majority after gold’s late-week rally, Main Street fails to reclaim bullish bias as inflation data take center stage",
+      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUG44Ynhha2xuQjluekdTRnlFQU9zcXJuYXJyZl9FMVFKV3VhY3lHSnM4My1jTURFRjVtc0F4eWx5cXZPOHVDU2lodkp3OUNNQXpZWkJGbzZYdnl6aVBLVDBBQXNxbDNJWURNc3FXU1hENmpTMWlJOV9uRUs4X1JaLUtjSVNKM0x2LVNIZ044QUJuN1A5dGFySVQ1SFF4S2Jsdzhvay1HZGw3TWpCTU9SSS1OaFg4UkIxQ3V0Rw?oc=5",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-10-10T08:49:58.0000000+00:00",
+      "title": "XAU/USD Forecast: Central Bank Gold Buying Spree Sets Stage for $4,500 Breakout",
+      "source": "FXLeaders",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbEdJRzBkcXAtWjJSLWs3S05MMkJ2XzJLZ1hFQV9tMGEwVFRhNHBsTVZiY2hGVnU4TDctX0N5bkZEdi1MTWtzR29idzZvSW5YT1VUQ2dxYUNvRnFUck0yWG1zR0VBR3VMVlNad1NVY3JIMjFnRUUzR3hiYnJOazhoejlMSEx5Nks5c3JaSzJkVXNxQWVJRTBlLTFleXVjdWRxczE2VXdJOTJlc2d4V2F4ZF9pYVlJVTluNGhr?oc=5",
+      "level": 2,
+      "kind": "Central-bank gold",
+      "topic": "cbgold"
+    }
+  ],
+  "fed": [
+    {
+      "t": "2026-10-07T18:00:00.0000000+00:00",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+    },
+    {
+      "t": "2026-09-16T18:00:00.0000000+00:00",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+    },
+    {
+      "t": "2026-09-16T18:00:00.0000000+00:00",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
+    }
+  ]
+}

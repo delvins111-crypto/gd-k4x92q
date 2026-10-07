@@ -1,0 +1,77 @@
+{
+  "updated": 1793463122697,
+  "items": [
+    {
+      "t": "2026-10-27T21:00:00.0000000+07:00",
+      "title": "CB Consumer Confidence",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "81.2",
+      "topic": "sentiment"
+    },
+    {
+      "t": "2026-10-29T01:00:00.0000000+07:00",
+      "title": "Federal Funds Rate",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "4.00%",
+      "topic": "fomc"
+    },
+    {
+      "t": "2026-10-29T01:00:00.0000000+07:00",
+      "title": "FOMC Statement",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "",
+      "topic": "fomc"
+    },
+    {
+      "t": "2026-10-29T01:30:00.0000000+07:00",
+      "title": "FOMC Press Conference",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "",
+      "topic": "fomc"
+    },
+    {
+      "t": "2026-10-29T19:30:00.0000000+07:00",
+      "title": "Advance GDP q/q",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "3.2%",
+      "topic": "gdp"
+    },
+    {
+      "t": "2026-10-29T19:30:00.0000000+07:00",
+      "title": "Core PCE Price Index m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.3%",
+      "topic": "pce"
+    },
+    {
+      "t": "2026-10-29T19:30:00.0000000+07:00",
+      "title": "Advance GDP Price Index q/q",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "3.2%",
+      "topic": "gdp"
+    },
+    {
+      "t": "2026-10-29T19:30:00.0000000+07:00",
+      "title": "Unemployment Claims",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "198K",
+      "topic": "claims"
+    },
+    {
+      "t": "2026-10-30T19:30:00.0000000+07:00",
+      "title": "Employment Cost Index q/q",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "0.8%",
+      "topic": null
+    }
+  ]
+}

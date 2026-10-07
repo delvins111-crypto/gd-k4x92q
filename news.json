@@ -1,0 +1,91 @@
+{
+  "updated": 1793463122697,
+  "counts": {
+    "l5": 0,
+    "l4": 1,
+    "l3": 2,
+    "low": 42
+  },
+  "items": [
+    {
+      "t": "2026-10-30T21:11:59.0000000+00:00",
+      "title": "Wall Street abandons ship after gold sinks below $3,900/oz, Main Street maintains bullish majority bias as midterms, payrolls loom",
+      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUw5bUFHYlpvMkFZOFJtaUZNb0dhYkN2WFpxQkEyMWdkdmZJdG5Na1ZJMGNCcTRvN3NDcGdoU0hLVXdmUmloSHNiOVR1NllJMFZveHZRTzQzLUtpbFB0SklvVUEtbzhLRFNsaFBfYldodzBBcnkxbUtFeVFXRDBoYUJCYVhTMFk0MW0xOW03LTVhdzVfTjIwS3dvNXoteVZqc2ZLVGVzalBfdVFOeWo1UXNkVQ?oc=5",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "nfp"
+    },
+    {
+      "t": "2026-10-30T12:19:48.0000000+00:00",
+      "title": "Fed Hike Bets Lower Gold’s Entry Price as Custody Shapes Digital Demand",
+      "source": "Crux Investor",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1RsdGdpc3ZmZzJzdnhpTW1Kaml4bElhRU5IY1EwRG4zdXdTV04zakMzR0h3Y0ZXTjZGQVQ1Mi1jUERHOVMxLV9TNVp4bHJJN1hsQjktUWFoOTNHTDFkSkRhSzlFeHlCMnlNZ05wS2dpSkl1b0pmV0c0dUtJckxNN201bkVDZWFDX1J1NEdNN0hnRGJjX1FPWmd4cmtzMEIzbnpmV1ZNa3A?oc=5",
+      "level": 3,
+      "kind": "Rate-bet shift",
+      "topic": "fedbets"
+    },
+    {
+      "t": "2026-10-30T06:36:44.0000000+00:00",
+      "title": "Gold and Silver Price Forecast: Silver Lags as Fed Hike Fears Grow",
+      "source": "FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGZOS0VFblE5RVJPNTBlb3k5Y25fWldYX21abE5pYmJpUmVHdS1NSDExX29ZWnZKSkx1c1Y4WHdoVFpYYnpuR2JxLTM5Q2YwS2NCT2F0bTJGT2pSR2Excng4UXg4ZU1pRkdtR2dZemVMSWtIRkd4ODlTbFpJRFpBM3dwVGxVUUwxR3FrT1JGUHZEVEYwWkJEWXBrSGMxRWNlU3hMVTBidVFRU1dBWVM3NENOS0JtMTg?oc=5",
+      "level": 3,
+      "kind": "Rate-bet shift",
+      "topic": "fedbets"
+    },
+    {
+      "t": "2026-10-30T21:30:00.0000000+00:00",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0g5UEdUdzM3Y3lfVEUxZGhGZzIwaThRajEzM2twM1R1NGZwTmM2c21yeFllZWJqLTNTdElOTG9UXzBzTHIwZVpQUk93eEt6ZmV1bENDM0diQmhhakczcE80UXJQNDI2MzV0TFdRZmRpRHR2RHkyNmxHZUxHbGxZUkZXTGR3cDdqVkZibjUtLXJDMFZtQTFKWHFDY3FGbE1jOFUwVGhKRnlqZzRwTTlMQl9LVlVLNFpuWHc?oc=5",
+      "level": 2,
+      "kind": "Geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-10-30T15:56:30.0000000+00:00",
+      "title": "Gold prices drop sharply at the end of October. The collapse of the safe-haven myth or a search for liquidity?",
+      "source": "XTB.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcWh6TGR5aUlDd04yYWhxN2pMRUJGRVdIcUN3aWpHRFFDSUZ0WFFfb1VDV2hfejlWVjk5a3B1NWJLT09Hbjk0NEltaVJxTHpweFg3cDYwMndaVFpvRk5NZTlPSE9BWVdxb1o2NWE1UXNDNWhGSWNtS0lmZk5vMkhObXlfSEs5MHVUcUhZTHFwWUpRVHVTNHZVMXl6eE83VkFNV09fVHlIT2RqVWM1RE1Nb2d4MUI1ZHhxYVRYaFRYZnFwLXY0X296eXJyaWx6VjFYQUJscDRNcDNKNlA3WDdURFNORFJmVllta3lnWlVhYndGcl82bDhBMQ?oc=5",
+      "level": 2,
+      "kind": "Geopolitics",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-10-30T12:52:14.0000000+00:00",
+      "title": "Gold drops below $4,000, silver tumbles as Hormuz attack lifts oil prices - Kitco AM Report",
+      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSmQ5alhCeHRlYUgzRWhfSmRhX3BUMGktZWtmMUxXaENCd0ZJRUFPdk55THVoWjNfUVByYzdRTHlsYVBQZm1za3dDQ19oMFJSM3o3VFl4Tlh6VS11MXpEdTFSdGZzU1hQMF9MY2pRbkJwQkJBNnpTdU9rZjh4eWh6bGRUX29Yb2l0QmY5Tkh4QnhBYmpQTVZBT01DWUJobFhKdTdVQ0pXSDVSeFFEQlJ5R1ZQc0luWXVpM2Zn?oc=5",
+      "level": 2,
+      "kind": "Geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-10-30T21:20:39.0000000+00:00",
+      "title": "Gold's frustrating paradox: Falling yields and a weaker dollar can't stop the selloff",
+      "source": "Kitco",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXAteVc1blkzdXBVYV80T2hILVRfYUp1TXJzZGhSYmZ2LWRJTVlVWVdWbHpYaXdlaW1LclZhV3dyYTcya0R5TXF3MEo3RnJ6N0R6UVl0SURCNTNkVGRyTnlYc2VsSHhOMWhqRmFKN2tqOWNja2p2aHh5TmxrVEs2V0c0dTVvLUJfcWJ0UDZBUk9ZZnJzY0k5cF8tYklETDVmSjh5X2tHNUZfbFotcEFNb0FsbEE?oc=5",
+      "level": 2,
+      "kind": "Yields & dollar",
+      "topic": "yields"
+    }
+  ],
+  "fed": [
+    {
+      "t": "2026-10-28T18:00:00.0000000+00:00",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "t": "2026-10-13T18:00:00.0000000+00:00",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+    },
+    {
+      "t": "2026-10-07T18:00:00.0000000+00:00",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+    }
+  ]
+}

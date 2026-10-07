@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "moderate",
+  "score": -47,
+  "price": 3652.32,
+  "updated": 1795889233000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "+12 bp",
+      "s": -0.48
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+1.9%",
+      "s": -0.965
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "-0.3%",
+      "s": -0.123
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "20 bearish / 39 bullish",
+      "s": 0.325
+    },
+    {
+      "name": "Fund positioning",
+      "value": "22th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Gold rally puzzles investors: Prices rise despite stronger dollar and higher yields; expert sees ₹1.50 lakh in one year. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

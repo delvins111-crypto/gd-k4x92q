@@ -1,0 +1,54 @@
+{
+  "updated": 1795889525529,
+  "price": 3652.32,
+  "basis": 16.2,
+  "votes": {
+    "fed": {
+      "state": "bull",
+      "label": "Hikes being priced out",
+      "detail": "2Y Treasury 4.69% (-7 bp over 5 sessions, as of 2026-11-27). Markets expect a softer Fed, which supports gold.",
+      "value": "-7 bp"
+    },
+    "rates": {
+      "state": "bull",
+      "label": "Dollar falling, yields flat",
+      "detail": "A falling dollar and falling yields make gold cheaper to hold (only one of the two is moving, so this is a weak yes). DXY 104.05 falling (+0.20% 1w, 4H down); US10Y 4.936% flat (+3 bp 3d).",
+      "value": "tailwind"
+    },
+    "price": {
+      "state": "bull",
+      "label": "Broke up + retest held",
+      "detail": "4H closed above the last lower high (3557.7), came back to it and held. That's the retest entry.",
+      "value": "structure shift"
+    }
+  },
+  "tie": {
+    "oil": {
+      "state": "mixed",
+      "label": "Oil flat",
+      "detail": "WTI 83.04 (-+0.0% 1w).",
+      "value": ""
+    },
+    "stocks": {
+      "state": "mixed",
+      "label": "Stocks calm",
+      "detail": "S&P futures 7,308 (+3.7% 1w). No panic selling, so no forced gold selling either.",
+      "value": ""
+    },
+    "news": {
+      "state": "bull",
+      "label": "Headlines: 20 bearish / 39 bullish",
+      "detail": "Headline tone over 72 h (about 79% accurate). Scheduled Fed and data events matter much more than articles.",
+      "value": ""
+    }
+  },
+  "levels": {
+    "trend": "broke-up",
+    "swingHigh": 3557.7,
+    "prevHigh": 3674.8,
+    "swingLow": 3437.6,
+    "prevLow": 3486.7,
+    "broken": 3557.7,
+    "retest": true
+  }
+}

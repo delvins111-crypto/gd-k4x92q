@@ -1,0 +1,118 @@
+{
+  "updated": 1795889523070,
+  "counts": {
+    "l5": 0,
+    "l4": 10,
+    "l3": 16,
+    "low": 9
+  },
+  "items": [
+    {
+      "t": "2026-11-28T14:10:20.0000000+00:00",
+      "title": "Saudi-led coalition: intercepted and neutralized ballistic missile fired by Houthis toward Al-Shugaiq",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9871418/Saudi-led-coalition-intercepted-and-neutralized-ballistic-missile-fired-by-Houthis-toward-Al-Shugaiq.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-11-27T16:18:19.0000000+00:00",
+      "title": "US CENTCOM: The vessel had departed an Iranian port and tried to run blockade.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870827/US-CENTCOM-The-vessel-had-departed-an-Iranian-port-and-tried-to-run-blockade.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-11-27T11:18:33.0000000+00:00",
+      "title": "Iran claims tanker hit mine north of Oman's Ghanam Island - IRIB",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870482/Iran-claims-tanker-hit-mine-north-of-Omans-Ghanam-Island---IRIB.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-11-27T11:17:29.0000000+00:00",
+      "title": "Iran's revolutionary guards' navy: Tanker hits mine on 'unauthorized' route near Hormuz Strait - State media",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870481/Irans-revolutionary-guards-navy-Tanker-hits-mine-on-unauthorized-route-near-Hormuz-Strait---State-media.aspx?xy=rss",
+      "level": 4,
+      "kind": "War / geopolitics",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-11-27T21:14:55.0000000+00:00",
+      "title": "S&P: France's real GDP growth is likely to remain subdued in 2027 after two consecutive years of weak economic performance.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9871023/SP-Frances-real-GDP-growth-is-likely-to-remain-subdued-in-2027-after-two-consecutive-years-of-weak-economic-performance.aspx?xy=rss",
+      "level": 4,
+      "kind": "US data release",
+      "topic": "gdp"
+    },
+    {
+      "t": "2026-11-28T15:37:23.0000000+00:00",
+      "title": "Ukrainian military strikes Russian oil refinery in Rostov, other facilities in Samara and Bashkortostan: defence ministry",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9871447/Ukrainian-military-strikes-Russian-oil-refinery-in-Rostov-other-facilities-in-Samara-and-Bashkortostan-defence-ministry.aspx?xy=rss",
+      "level": 3,
+      "kind": "War background",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-11-28T11:19:45.0000000+00:00",
+      "title": "Adviser to Iran's supreme leader warns Iraq against becoming ‘Trump’s tool’ after border crossings closed - post on X",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9871361/Adviser-to-Irans-supreme-leader-warns-Iraq-against-becoming-Trumps-tool-after-border-crossings-closed---post-on-X.aspx?xy=rss",
+      "level": 3,
+      "kind": "War background",
+      "topic": "mideast"
+    },
+    {
+      "t": "2026-11-27T17:46:00.0000000+00:00",
+      "title": "Second Russian military flotilla bound for Libya has turned around in Mediterranean after warship sunk on Nov 22nd - three sources.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870897/Second-Russian-military-flotilla-bound-for-Libya-has-turned-around-in-Mediterranean-after-warship-sunk-on-Nov-22nd---three-sources.aspx?xy=rss",
+      "level": 3,
+      "kind": "War background",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-11-27T16:57:29.0000000+00:00",
+      "title": "US Military: military aircraft launched precision munitions that struck the stern of Palau-flagged M/V Pacific Archer.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870850/US-Military-military-aircraft-launched-precision-munitions-that-struck-the-stern-of-Palau-flagged-MV-Pacific-Archer.aspx?xy=rss",
+      "level": 3,
+      "kind": "War background",
+      "topic": "forecast"
+    },
+    {
+      "t": "2026-11-27T16:44:22.0000000+00:00",
+      "title": "Russia's Foreign Ministry: Russia reserves the right to take retaliatory measures against Latvia - RIA News.",
+      "source": "FinancialJuice",
+      "link": "https://www.financialjuice.com/News/9870842/Russias-Foreign-Ministry-Russia-reserves-the-right-to-take-retaliatory-measures-against-Latvia---RIA-News.aspx?xy=rss",
+      "level": 3,
+      "kind": "War background",
+      "topic": "russia"
+    }
+  ],
+  "fed": [
+    {
+      "t": "2026-11-24T19:00:00.0000000+00:00",
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm"
+    },
+    {
+      "t": "2026-11-18T19:00:00.0000000+00:00",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+    },
+    {
+      "t": "2026-11-12T17:45:00.0000000+00:00",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+    }
+  ]
+}

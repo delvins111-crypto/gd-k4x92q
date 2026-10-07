@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "strong",
+  "score": -84,
+  "price": 3538.18,
+  "updated": 1795270032000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "+13 bp",
+      "s": -0.52
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+2.0%",
+      "s": -0.982
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "-9.5%",
+      "s": -1.0
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "65 bearish / 7 bullish",
+      "s": -0.837
+    },
+    {
+      "name": "Fund positioning",
+      "value": "22th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": ""
+}

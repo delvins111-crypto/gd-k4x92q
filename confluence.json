@@ -1,0 +1,54 @@
+{
+  "updated": 1795270329341,
+  "price": 3538.18,
+  "basis": -22.8,
+  "votes": {
+    "fed": {
+      "state": "bull",
+      "label": "Hikes being priced out",
+      "detail": "2Y Treasury 4.63% (-25 bp over 5 sessions, as of 2026-11-20). Markets expect a softer Fed, which supports gold.",
+      "value": "-25 bp"
+    },
+    "rates": {
+      "state": "bull",
+      "label": "Dollar falling, yields falling",
+      "detail": "A falling dollar and falling yields make gold cheaper to hold. DXY 103.84 falling (+0.41% 1w, 4H down); US10Y 4.912% falling (-19 bp 3d).",
+      "value": "tailwind"
+    },
+    "price": {
+      "state": "bear",
+      "label": "Downtrend",
+      "detail": "4H is making lower highs and lower lows. Sell rallies; the downtrend breaks on a 4H close above 3619.5.",
+      "value": "LH + LL"
+    }
+  },
+  "tie": {
+    "oil": {
+      "state": "bull",
+      "label": "Oil falling",
+      "detail": "WTI 83.41 (-6.2% 1w): less energy inflation, less reason for the Fed to hike.",
+      "value": ""
+    },
+    "stocks": {
+      "state": "warn",
+      "label": "Stocks selling off",
+      "detail": "S&P futures 6,935 (-8.5% 1w). In a panic, gold can get sold too while funds raise cash. Expect bigger swings.",
+      "value": ""
+    },
+    "news": {
+      "state": "bear",
+      "label": "Headlines: 65 bearish / 7 bullish",
+      "detail": "Headline tone over 72 h (about 79% accurate). Scheduled Fed and data events matter much more than articles.",
+      "value": ""
+    }
+  },
+  "levels": {
+    "trend": "down",
+    "swingHigh": 3619.5,
+    "prevHigh": 3916.8,
+    "swingLow": 3537.7,
+    "prevLow": 3717.3,
+    "broken": null,
+    "retest": false
+  }
+}

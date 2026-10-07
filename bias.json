@@ -1,0 +1,40 @@
+{
+  "bias": "bearish",
+  "strength": "moderate",
+  "score": -53,
+  "price": 4165.42,
+  "updated": 1792271232000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "+13 bp",
+      "s": -0.52
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+1.6%",
+      "s": -0.808
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "-0.8%",
+      "s": -0.334
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "17 bearish / 34 bullish",
+      "s": 0.082
+    },
+    {
+      "name": "Fund positioning",
+      "value": "29th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Central Bank Gold Buying: Why 39 Tonnes Matters. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

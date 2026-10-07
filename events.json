@@ -1,0 +1,93 @@
+{
+  "updated": 1792271522860,
+  "items": [
+    {
+      "t": "2026-10-14T19:30:00.0000000+07:00",
+      "title": "Core CPI m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.2%",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-10-14T19:30:00.0000000+07:00",
+      "title": "Core CPI y/y",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "2.5%",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-10-14T19:30:00.0000000+07:00",
+      "title": "CPI m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.6%",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-10-14T19:30:00.0000000+07:00",
+      "title": "CPI y/y",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "3.6%",
+      "topic": "cpi"
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "Core PPI m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.3%",
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "Core Retail Sales m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.6%",
+      "topic": "retail"
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "PPI m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.6%",
+      "topic": "ppi"
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "Retail Sales m/m",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "0.3%",
+      "topic": "retail"
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "Philly Fed Manufacturing Index",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "28.2",
+      "topic": null
+    },
+    {
+      "t": "2026-10-15T19:30:00.0000000+07:00",
+      "title": "Unemployment Claims",
+      "impact": "Medium",
+      "cur": "USD",
+      "forecast": "199K",
+      "topic": "claims"
+    },
+    {
+      "t": "2026-10-16T10:30:00.0000000+07:00",
+      "title": "Fed Chairman Warsh Speaks",
+      "impact": "High",
+      "cur": "USD",
+      "forecast": "",
+      "topic": "fedchair"
+    }
+  ]
+}

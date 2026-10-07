@@ -1,0 +1,54 @@
+{
+  "updated": 1792271524525,
+  "price": 4165.42,
+  "basis": 15.7,
+  "votes": {
+    "fed": {
+      "state": "mixed",
+      "label": "No change in Fed pricing",
+      "detail": "2Y Treasury 4.74% (-1 bp over 5 sessions, as of 2026-10-16). Not enough movement to count.",
+      "value": "-1 bp"
+    },
+    "rates": {
+      "state": "bull",
+      "label": "Dollar falling, yields falling",
+      "detail": "A falling dollar and falling yields make gold cheaper to hold. DXY 101.78 falling (-0.44% 1w, 4H down); US10Y 5.098% falling (-12 bp 3d).",
+      "value": "tailwind"
+    },
+    "price": {
+      "state": "mixed",
+      "label": "Range",
+      "detail": "No clear 4H trend. A 4H close above 4177.8 turns it bullish; below 4135.9 turns it bearish.",
+      "value": "range"
+    }
+  },
+  "tie": {
+    "oil": {
+      "state": "bear",
+      "label": "Oil rising",
+      "detail": "WTI 99.02 (+7.8% 1w): more inflation pressure, more reason for the Fed to stay tight.",
+      "value": ""
+    },
+    "stocks": {
+      "state": "mixed",
+      "label": "Stocks calm",
+      "detail": "S&P futures 7,704 (-2.0% 1w). No panic selling, so no forced gold selling either.",
+      "value": ""
+    },
+    "news": {
+      "state": "mixed",
+      "label": "Headlines: 17 bearish / 34 bullish",
+      "detail": "Headline tone over 72 h (about 79% accurate). Scheduled Fed and data events matter much more than articles.",
+      "value": ""
+    }
+  },
+  "levels": {
+    "trend": "range",
+    "swingHigh": 4177.8,
+    "prevHigh": 4209.1,
+    "swingLow": 4135.9,
+    "prevLow": 4079.3,
+    "broken": null,
+    "retest": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "bias": "neutral",
+  "strength": "mixed",
+  "score": 18,
+  "price": 4070.59,
+  "updated": 1794082030000,
+  "components": [
+    {
+      "name": "Real yields (20d)",
+      "value": "-24 bp",
+      "s": 0.96
+    },
+    {
+      "name": "Dollar index (20d)",
+      "value": "+0.1%",
+      "s": -0.044
+    },
+    {
+      "name": "Trend",
+      "value": "Below 50d & 200d",
+      "s": -1.0
+    },
+    {
+      "name": "Momentum (5d)",
+      "value": "+4.5%",
+      "s": 1.0
+    },
+    {
+      "name": "News flow (72h)",
+      "value": "26 bearish / 29 bullish",
+      "s": -0.017
+    },
+    {
+      "name": "Fund positioning",
+      "value": "24th pct (3y)",
+      "s": 0.0
+    }
+  ],
+  "flip": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand. Markets haven't traded since this headline yet. Watch the reaction at the open."
+}

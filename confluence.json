@@ -1,0 +1,54 @@
+{
+  "updated": 1794082324065,
+  "price": 4070.59,
+  "basis": 4.3,
+  "votes": {
+    "fed": {
+      "state": "mixed",
+      "label": "No change in Fed pricing",
+      "detail": "2Y Treasury 4.51% (-5 bp over 5 sessions, as of 2026-11-06). Not enough movement to count.",
+      "value": "-5 bp"
+    },
+    "rates": {
+      "state": "mixed",
+      "label": "Dollar rising, yields falling",
+      "detail": "The dollar and yields disagree, so they cancel out. DXY 102.28 rising (+0.31% 1w, 4H up); US10Y 4.859% falling (-9 bp 3d).",
+      "value": "split"
+    },
+    "price": {
+      "state": "bull",
+      "label": "Uptrend",
+      "detail": "4H is making higher highs and higher lows. Buy pullbacks; the trend is in trouble on a 4H close below 4030.8.",
+      "value": "HH + HL"
+    }
+  },
+  "tie": {
+    "oil": {
+      "state": "bull",
+      "label": "Oil falling",
+      "detail": "WTI 90.83 (-12.8% 1w): less energy inflation, less reason for the Fed to hike.",
+      "value": ""
+    },
+    "stocks": {
+      "state": "mixed",
+      "label": "Stocks calm",
+      "detail": "S&P futures 7,402 (-2.8% 1w). No panic selling, so no forced gold selling either.",
+      "value": ""
+    },
+    "news": {
+      "state": "mixed",
+      "label": "Headlines: 26 bearish / 29 bullish",
+      "detail": "Headline tone over 72 h (about 79% accurate). Scheduled Fed and data events matter much more than articles.",
+      "value": ""
+    }
+  },
+  "levels": {
+    "trend": "up",
+    "swingHigh": 4151.5,
+    "prevHigh": 3977.4,
+    "swingLow": 4030.8,
+    "prevLow": 3899.8,
+    "broken": null,
+    "retest": false
+  }
+}

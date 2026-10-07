@@ -1,0 +1,27 @@
+{
+  "updated": 1794082322168,
+  "counts": {
+    "l5": 0,
+    "l4": 0,
+    "l3": 0,
+    "low": 17
+  },
+  "items": [],
+  "fed": [
+    {
+      "t": "2026-10-28T18:00:00.0000000+00:00",
+      "title": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "t": "2026-10-13T18:00:00.0000000+00:00",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
+    },
+    {
+      "t": "2026-10-07T18:00:00.0000000+00:00",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm"
+    }
+  ]
+}
